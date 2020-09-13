@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+</br>NAME: MONICA PATEL T
+</br>I'm currently a student at REVA UNIVERSITY
+</br>email: tmonicapatel@gmail.com
 <!--
 **monicapatel15/monicapatel15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
